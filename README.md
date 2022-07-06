@@ -1,4 +1,5 @@
-Original ball bouncing simulation by TokyoEdtech
+Original ball bouncing simulation tutorial by TokyoEdtech:
+
 https://www.youtube.com/watch?v=Pl_w9qSgMGY&ab_channel=TokyoEdtech
 https://github.com/wynand1004
 
